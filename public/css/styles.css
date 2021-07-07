@@ -1,16 +1,50 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 /*
-font-family: 'Roboto', sans-serif; */
+font-family: 'Roboto', sans-serif; 
+●Tamaños Tipográficos
+Cuerpos de texto: 12px
+Titulares (Basado en tu última visita/Ofertas): 24px
+Precios: 18px
+Descuentos: 16px
+Descripciones: 16px*/
+
+:root{
+    --colorAmarillo: #EAC926;
+    --colorAzul: #03264C;
+    --colorCeleste: #1259c3;
+    --colorGrisOscuro: #666;
+    --colorGrisClaro: #ebebeb;
+    --colorVerde: #39b54a;
+}
 
 *{
     font-family: 'Roboto', sans-serif;
+    margin: 0;
 }
 
 body header{
-    background-color: #EAC926;
+    background-color: var(--colorAmarillo);
+    padding-left: 10px;
 }
 
 body header div{
-    margin-left: 12px;
+    padding-left: 10px;
+}
+
+body header div input.buscar_texto{
+    font-size: 1rem;
+    width: 50%;
+}
+body header i{
+    padding-left: 10px;
+}
+
+body header div.comprar{
+    text-align: center;
+}
+body header div h4{
+    display: inline;
+}
+
 }
 

@@ -19,6 +19,6 @@ Descuentos: 16px
 Descripciones: 16px
 
 ●Íconos
-El departamento de diseño usó los íconos de este sitio:https://fontawesome.com/icons?d=gallery&m=freeParaellonospidieronquecarguemosunahojadeestilosdelmismoconestaporcióndecódigo.Nosindicaronquedeberíamosdesaberdóndetienequeestarubicada, y sino que consultemos a nuestros compañeros
+El departamento de diseño usó los íconos de este sitio:https://fontawesome.com/icons?d=gallery&m=free 
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"rel="stylesheet"/>
